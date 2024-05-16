@@ -1,0 +1,1 @@
+CREATE DATABASE bookshopdb_catalog;
